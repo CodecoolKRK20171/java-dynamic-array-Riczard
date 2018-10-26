@@ -4,7 +4,6 @@ package com.codecool.dynamicArrayDojo;
 public class DynamicIntArray {
 
     private int[] dynamicIntArray;
-    private static int count = 0;
 
     public DynamicIntArray(){
         dynamicIntArray = new int[0];
